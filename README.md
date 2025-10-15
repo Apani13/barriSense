@@ -79,10 +79,12 @@ Després, accedeix al repositori del frontend i segueix les instruccions d'insta
 
 ## 🗺️ 9. Futur / Roadmap
 
-- Afegir tipologia a les queixes per a poder classificarles  
+- Afegir tipologia a les queixes per a poder classificarles
+    
 - Integrar les queixes reals dels usuaris amb dades oficials i obertes per identificar i explicar les causes de l’augment de queixes en determinades zones —com el soroll, les obres, els esdeveniments, el trànsit o la densitat d'hotels per zona—, permetent generar estadístiques i patrons de comportament a partir de la informació combinada.
 
 ---
 
 ✊ **Allà on les dades oficials es queden curtes, BarriSense escolta.**  
+
 *Perquè darrere de cada punt al mapa hi ha una persona, un veí, una història.*
