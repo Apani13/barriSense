@@ -39,7 +39,7 @@ Sense classificacions ni filtres: el mapa mostra on la tensió ciutadana és mé
 ## 🧱 5. Arquitectura breu
 
 ```
-[Frontend React/Leaflet] ⇄ [API REST Spring Boot] ⇄ [H2 Database]
+[Frontend React/vite] ⇄ [API REST Spring Boot] ⇄ [H2 Database]
 ```
 
 L’aplicació utilitza H2 com a base de dades embeguda, ideal per a proves i prototips sense necessitat d’instal·lació addicional.
@@ -79,10 +79,8 @@ Després, accedeix al repositori del frontend i segueix les instruccions d'insta
 
 ## 🗺️ 9. Futur / Roadmap
 
-- Afegir filtres per tipologia o temps.  
-- Incorporar sistemes de votació o priorització.  
-- Crear un panell per a administracions amb estadístiques ciutadanes.  
-- Obrir la plataforma com a observatori social de convivència urbana.
+- Afegir tipologia a les queixes per a poder classificarles  
+- Integrar les queixes reals dels usuaris amb dades oficials i obertes per identificar i explicar les causes de l’augment de queixes en determinades zones —com el soroll, les obres, els esdeveniments, el trànsit o la densitat d'hotels per zona—, permetent generar estadístiques i patrons de comportament a partir de la informació combinada.
 
 ---
 
