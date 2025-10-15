@@ -1,8 +1,8 @@
 # BarriSense
 
-**Sense calma, sense comerç local, sense descans...  
+**Sense calma, sense comerç local, sense descans... ** 
 
-Barri sense barri.**
+Barri sense barri.
 
 ---
 
